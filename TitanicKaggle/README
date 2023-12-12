@@ -1,2 +1,13 @@
-* Overview * 
+
 This repository contains my submission for the Titanic Kaggle competition. The goal of this competition is to predict whether a passenger survived or not based on various features such as age, gender, class, etc.
+
+Files:
+TitanicKaggle.ipynb: 
+Jupyter Notebook containing the code for data exploration, feature engineering, model training, and evaluation.
+answer.csv: 
+The file containing my final predictions for the test set.
+gender_submission.csv: 
+A self-parsed sample submission file, indicating whether the person is a woman or a man.
+test.csv: The test dataset used for making predictions.
+train.csv: The training dataset used to train your machine learning model.
+
